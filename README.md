@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devi7uke&label=Profile%20views&color=0e75b6&style=flat" alt="devi7uke" /> </p>
 
-<p align="left"> <img src="https://i.imgur.com/S66dMCS.gif"/> </p>
+<p align="left"> <img src="https://i.imgur.com/KJyWmOm.gif"/> </p>
 
-- 😎 I’m currently learning **Unity VR Development**
+- 😎 I’m currently learning **Data Science**
 
-- 📲 Institutional mail **172817@upslp.edu.mx**
+- 📲 Institutional email **172817@upslp.edu.mx**
 
 <h3 align="left">🧊Connect with me:</h3>
 <p align="left">
