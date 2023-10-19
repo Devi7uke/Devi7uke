@@ -1,5 +1,5 @@
-<h1 align="center">Hey there!!!👻, im Brayan Frias</h1>
-<h3 align="center">A passionate student of TI engineering from México (👍≖‿‿≖)👍 👍(≖‿‿≖👍)</h3>
+<h1 align="center">Hey there!!!👻, im Brayan</h1>
+<h3 align="center">A passionate student of TI engineering from Latam (👍≖‿‿≖)👍 👍(≖‿‿≖👍)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devi7uke&label=Profile%20views&color=0e75b6&style=flat" alt="devi7uke" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 😎 I’m currently learning **Data Science**
 
-- 📲 Institutional email **172817@upslp.edu.mx**
+- 📲 Email **dvlk8003@gmail.com**
 
 <h3 align="left">🧊Connect with me:</h3>
 <p align="left">
